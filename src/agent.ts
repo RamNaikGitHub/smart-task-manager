@@ -17,7 +17,6 @@ export async function parseCommand(command: string): Promise<AgentAction | null>
     // }
 
     // const data = await response.json();
-    // const data2 = await response.json();
     // mock data and deadline current date with 20seconds ahead for testing and in string format
     const data = {
       task: command,
