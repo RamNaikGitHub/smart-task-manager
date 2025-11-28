@@ -1,5 +1,4 @@
 // src/components/TaskList.tsx
-import React from "react";
 import type { Task } from "../types";
 
 // Define the type for the component's props

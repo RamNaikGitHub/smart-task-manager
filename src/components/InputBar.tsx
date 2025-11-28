@@ -1,5 +1,5 @@
 // src/components/InputBar.tsx
-import React, { useState } from "react";
+import { useState } from "react";
 
 interface InputBarProps {
   onNewCommand: (command: string) => void;

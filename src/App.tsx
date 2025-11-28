@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { parseCommand } from "./agent";
 import InputBar from "./components/InputBar";
 import TaskList from "./components/TaskList";
